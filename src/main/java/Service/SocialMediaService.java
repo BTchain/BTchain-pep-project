@@ -11,7 +11,7 @@ import Model.Message;
 public class SocialMediaService {
 
     SocialMediaAccountDAO AccountDAO;
-    SocialMediaMessageDAO MessageDAO;
+    SocialMediaMessageDAO MessageDAO; 
 
     public SocialMediaService() {
         AccountDAO = new SocialMediaAccountDAO();

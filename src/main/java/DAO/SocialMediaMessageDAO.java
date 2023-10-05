@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import Model.Message;
-import Util.ConnectionUtil;
+import Util.ConnectionUtil; 
 
 public class SocialMediaMessageDAO {
 
