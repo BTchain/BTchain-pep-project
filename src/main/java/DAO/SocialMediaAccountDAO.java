@@ -2,8 +2,8 @@ package DAO;
 
 import java.sql.*;
 
-import Model.Account;
-import Util.ConnectionUtil; 
+import Model.Account;  
+import Util.ConnectionUtil;  
 
 public class SocialMediaAccountDAO {
 
